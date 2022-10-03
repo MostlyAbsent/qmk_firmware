@@ -27,3 +27,5 @@
 
 /* Set 0 if debouncing isn't needed */
 #define DEBOUNCE 5
+
+#define ONESHOT_TIMEOUT 5000
